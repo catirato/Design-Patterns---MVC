@@ -19,14 +19,12 @@ developed as part of the <strong>Algorithms and Programming</strong> module at C
 # 🖼️ Application Preview
 
 <p align="center">
-  <img src="screenshots/login.png" width="220">
-  </p>
-  <p align="center">
-  <img src="screenshots/admin_dashboard.png" width="220">
-  <img src="screenshots/managment_dasboard.png" width="220">
-  <img src="screenshots/rooms.png" width="220">
+<img src="screenshots/login.png" width="220">
+<img src="screenshots/manag_dasboard.png" width="220">
+<img src="screenshots/admin_dashboard.png" width="220">
+<img src="screenshots/rooms.png" width="220">  
 </p>
-
+  
 ---
 
 # 📖 About the Project
@@ -148,4 +146,5 @@ The objective was to apply programming concepts such as:
 **Catarina Rato**
 
 Academic project developed to practice **Java programming, MVC architecture, and structured application design**.
+
 
