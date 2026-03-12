@@ -20,6 +20,8 @@ developed as part of the <strong>Algorithms and Programming</strong> module at C
 
 <p align="center">
   <img src="screenshots/login.png" width="220">
+  </p>
+  <p align="center">
   <img src="screenshots/admin_dashboard.png" width="220">
   <img src="screenshots/managment_dasboard.png" width="220">
   <img src="screenshots/rooms.png" width="220">
@@ -146,3 +148,4 @@ The objective was to apply programming concepts such as:
 **Catarina Rato**
 
 Academic project developed to practice **Java programming, MVC architecture, and structured application design**.
+
